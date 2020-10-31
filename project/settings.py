@@ -139,7 +139,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 
-EMAIL_HOST_USER = 'morocco.django.0@gmail.com'
-EMAIL_HOST_PASSWORD = 'key'
+EMAIL_HOST_USER = 'google.0@gmail.com'
+EMAIL_HOST_PASSWORD = 'pwdpwd'
 
 # SITE_ID = 1
